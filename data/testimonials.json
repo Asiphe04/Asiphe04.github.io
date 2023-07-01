@@ -1,0 +1,46 @@
+{ 
+"testimonials": [
+    {
+        "id" : 1,
+        "img" : "https://i.postimg.cc/bvKzb0fg/sakhe-updated.png",
+        "fullName" : "Sakhe Mzolisa",
+        "role" : "Former Team leader",
+        "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic."
+    },
+    {
+        "id" : 2,
+        "img" : "https://i.postimg.cc/dVfvPR3F/Sisipho-1.jpg",
+        "fullName" : "Sisipho Pepengweni",
+        "role" : "LS Student",
+        "desc" : "As an IT professional, Asiphe embodies dedication and excellence. He never fails to exceed expectations and possesses a remarkable work ethic alongside unparalleled proficiency in technical matters."
+    },
+    {
+        "id" : 3,
+        "img" : "https://i.postimg.cc/L5mFBNCt/C12-Luke-Evertson-1.jpg",
+        "fullName" : "Luke Evertson",
+        "role" : "LS Student",
+        "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic."
+    },
+    {
+        "id" : 4,
+        "img" : "https://i.postimg.cc/cLk11yDV/phir.jpg",
+        "fullName" : "Phindile Ndimlana",
+        "role" : "Software Quality Engineer at Impact",
+        "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
+    },
+    {
+        "id" : 5,
+        "img" : "https://i.postimg.cc/6Q7WyjgT/candice.jpg",
+        "fullName" : "Candice Amon",
+        "role" : "Life Choices Facilitator",
+        "desc" : "Asiphe is very unique individual who is not afraid to take on a challenge by himself, He is not much of a talker but rather a doer. He knows when to ask for help and has a transparent approach in everything he does. Observation is his strength and keeping focused on the task at hand is what keeps him going. He loves a good laugh to unwind and knows his boundaries very cleary."
+    },
+    {
+        "id" : 6,
+        "img" : "https://i.postimg.cc/3RHsYtHs/C12-Ayesha-Galant-Class1-1.jpg",
+        "fullName" : "Ayesha Galant",
+        "role" : "LS Student",
+        "desc" : "With a remarkable skill set in IT, Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
+    }
+]
+}

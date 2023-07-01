@@ -1,0 +1,25 @@
+{ 
+"education": [
+    {
+        "id" : 1,
+        "course" : "Web Development",
+        "place" : "Life Choices Academy",
+        "period" : "Apr 2023 - Present",
+        "desc" : "Currently learning HTML ,CSS, Bootstrap, Javascript, Vue.js many more"
+    },
+    {
+        "id" : 2,
+        "course" : "Grade 8-12",
+        "place" : "Butterworth High School",
+        "period" : "Jan 2017 - Dec 2021",
+        "desc" : "Passed Grade 12"
+    },
+    {
+        "id" : 3,
+        "course" : "Grade R - 7",
+        "place" : "Little Angels School",
+        "period" : "Jan 2008 - Dec 2016",
+        "desc" : "Finished Primary and Intermidate phase"
+    }
+]
+}
