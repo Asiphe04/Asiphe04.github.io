@@ -1,5 +1,4 @@
-{ 
-"projects": [
+ [
     {
         "id" : 1,
         "projName" : "My first EOMP ",
@@ -66,4 +65,3 @@
     }
    
 ]
-}
