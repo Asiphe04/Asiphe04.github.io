@@ -5,14 +5,14 @@
         "img" : "https://i.postimg.cc/8kh2KmD9/first-portfolio.png", 
         "category" : "HTML,CSS", 
         
-        "desc" : "The first End of Module Project I made. This project is my portfolio, its not perfect but it just remindes me of where I started from."
+        "desc" : "The first End of Module Project I made.It just remindes me of where I started from."
     },
     {
         "id" : 2,
         "projName" : "Class Table Info",
         "img" : "https://i.postimg.cc/PJz0CT2T/TABLES.png", 
         "category" : "HTML,CSS",  
-        "desc" : "A table wth information of my classmates/colleagues and it also has a contact form at the bottom"
+        "desc" : "A table wth information of my classmates/colleagues"
     },
     {
         "id" : 3,
