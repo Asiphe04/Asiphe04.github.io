@@ -1,5 +1,4 @@
-{ 
-"testimonials": [
+ [
     {
         "id" : 1,
         "img" : "https://i.postimg.cc/bvKzb0fg/sakhe-updated.png",
@@ -43,4 +42,3 @@
         "desc" : "With a remarkable skill set in IT, Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
     }
 ]
-}
