@@ -1,10 +1,10 @@
  [
-    {
-        "id" : 4,
-        "img" : "https://i.postimg.cc/bvKzb0fg/sakhe-updated.png",
-        "fullName" : "Sakhe Mzolisa",
-        "role" : "Former Team leader",
-        "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic."
+       {
+        "id" : 1,
+        "img" : "https://i.postimg.cc/cLk11yDV/phir.jpg",
+        "fullName" : "Phindile Ndimlana",
+        "role" : "Software Quality Engineer at Impact",
+        "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
     },
     {
         "id" : 2,
@@ -20,13 +20,14 @@
         "role" : "LS Student",
         "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic."
     },
-    {
-        "id" : 1,
-        "img" : "https://i.postimg.cc/cLk11yDV/phir.jpg",
-        "fullName" : "Phindile Ndimlana",
-        "role" : "Software Quality Engineer at Impact",
-        "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
+   {
+        "id" : 4,
+        "img" : "https://i.postimg.cc/bvKzb0fg/sakhe-updated.png",
+        "fullName" : "Sakhe Mzolisa",
+        "role" : "Former Team leader",
+        "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable. He unequivocally embodies talent and commitment in his work ethic."
     },
+
     {
         "id" : 5,
         "img" : "https://i.postimg.cc/6Q7WyjgT/candice.jpg",
