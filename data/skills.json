@@ -14,7 +14,7 @@
     {
         "id" : 3,
         "img" : "https://i.postimg.cc/25XMpwPv/js1.png",
-        "skillName" : "Javascript",
+        "skillName" : "JS",
         "level" : "Above Average"
     },
     {
@@ -56,7 +56,7 @@
     {
         "id" : 10,
         "img" : "https://i.postimg.cc/HW7DgqWL/db-removebg-preview.png",
-        "skillName" : "Databases",
+        "skillName" : "DB",
         "level" : "Above Average"
     }
 
