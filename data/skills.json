@@ -1,0 +1,63 @@
+ [
+    {
+        "id" : 1,
+        "img" : "https://i.postimg.cc/g2pP4gW2/html-removebg-preview.png",
+        "skillName" : "HTML",
+        "level" : "Expert"
+    },
+    {
+        "id" : 2,
+        "img" : "https://i.postimg.cc/FKsXX11t/cs-removebg-preview.png",
+        "skillName" : "CSS",
+        "level" : "Expert"
+    },
+    {
+        "id" : 3,
+        "img" : "https://i.postimg.cc/25XMpwPv/js1.png",
+        "skillName" : "Javascript",
+        "level" : "Above Average"
+    },
+    {
+        "id" : 4,
+        "img" : "https://i.postimg.cc/KYqSGFg1/bootstrap-removebg-preview.png",
+        "skillName" : "Bootstrap",
+        "level" : "Expert"
+    },
+    {
+        "id" : 5,
+        "img" : "https://i.postimg.cc/gj9yfX1b/vue1-removebg-preview.png",
+        "skillName" : "Vue.js",
+        "level" : "Above Average"
+    },
+    {
+        "id" : 6,
+        "img" : "https://i.postimg.cc/LXJdh7zN/delphi-removebg-preview.png",
+        "skillName" : "Delphi 10",
+        "level" : "Expert"
+    },
+    {
+        "id" : 7,
+        "img" : "https://i.postimg.cc/FzS2VLCS/sql-removebg-preview.png",
+        "skillName" : "SQL",
+        "level" : "Regular"
+    },
+    {
+        "id" : 8,
+        "img" : "https://i.postimg.cc/9QbsbVbL/vs-removebg-preview.png",
+        "skillName" : "VS Code",
+        "level" : "Regular"
+    },
+    {
+        "id" : 9,
+        "img" : "https://i.postimg.cc/7ZwpSb3C/figma-removebg-preview.png",
+        "skillName" : "Figma",
+        "level" : "Regular"
+    },
+    {
+        "id" : 10,
+        "img" : "https://i.postimg.cc/HW7DgqWL/db-removebg-preview.png",
+        "skillName" : "Databases",
+        "level" : "Above Average"
+    }
+
+]
