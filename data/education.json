@@ -1,5 +1,4 @@
-{ 
-"education": [
+[
     {
         "id" : 1,
         "course" : "Web Development",
@@ -22,4 +21,3 @@
         "desc" : "Finished Primary and Intermidate phase"
     }
 ]
-}
