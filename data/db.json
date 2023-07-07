@@ -139,7 +139,8 @@
         "category" : "HTML,CSS", 
         
         "desc" : "The first End of Module Project I made.It just remindes me of where I started from.",
-    "link": "https://github.com/Asiphe04/Asiphe_Ndimlana_EOMP.git"
+        "link": "https://github.com/Asiphe04/Asiphe_Ndimlana_EOMP.git",
+        "netlify": "https://magenta-flan-0d84bb.netlify.app/"
     },
     {
         "id" : 2,
@@ -147,7 +148,8 @@
         "img" : "https://i.postimg.cc/PJz0CT2T/TABLES.png", 
         "category" : "HTML,CSS",  
         "desc" : "A table wth information of my classmates/colleagues",
-        "link": "https://github.com/Asiphe04/Tables.git"
+        "link": "https://github.com/Asiphe04/Tables.git",
+        "netlify": "https://statuesque-pie-8706c9.netlify.app/"
     },
     {
         "id" : 3,
@@ -155,7 +157,8 @@
         "img" : "https://i.postimg.cc/Gm7wP3rp/hulu-1.png", 
         "category" : "HTML,CSS", 
         "desc" : "a replica of a website for streaming movies",
-        "link": "https://github.com/Asiphe04/HTML-basics.git"
+        "link": "https://github.com/Asiphe04/HTML-basics.git",
+        "netlify": "https://jovial-rolypoly-ceff93.netlify.app/"
     },
     {
         "id" : 4,
@@ -163,7 +166,8 @@
         "img" : "https://i.postimg.cc/TPK8t8YJ/cc.png", 
         "category" : "JavaScript",  
         "desc" : "A website for converting currency, any currency is available.",
-        "link": "https://github.com/Asiphe04/Currency_Convertor.git"
+        "link": "https://github.com/Asiphe04/Currency_Convertor.git",
+        "netlify": "https://glittering-wisp-2005ee.netlify.app/"
     },
     {
         "id" : 5,
@@ -171,7 +175,8 @@
         "img" : "https://i.postimg.cc/25MsJH1R/calc.png", 
         "category" : "JavaScript",  
         "desc" : "Fully functional Calculator",
-        "link": "https://github.com/Asiphe04/My_Calculator.git"
+        "link": "https://github.com/Asiphe04/My_Calculator.git",
+        "netlify": "https://stunning-licorice-1ecf7d.netlify.app/"
     },
     {
         "id" : 6,
@@ -179,7 +184,8 @@
         "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
         "category" : "JavaScript",  
         "desc" : "A JS EOMP whereby I was selling football items",
-        "link": "https://github.com/Asiphe04/ASIPHE_JS_EOMP.git"
+        "link": "https://github.com/Asiphe04/ASIPHE_JS_EOMP.git",
+        "netlify": "https://reliable-cannoli-ae092c.netlify.app/"
     },
     {
         "id" : 7,
@@ -187,7 +193,8 @@
         "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
         "category" : "Vue",  
         "desc" : "A replica of the JS EOMP but with vue",
-        "link": "https://github.com/Asiphe04/vue_project-.git"
+        "link": "https://github.com/Asiphe04/vue_project-.git",
+        "netlify": "https://lighthearted-cocada-4c78e0.netlify.app/"
 
     },
     {
@@ -196,7 +203,8 @@
         "img" : "https://i.postimg.cc/xCmwSKmk/rg.png", 
         "category" : "Vue",  
         "desc" : "A description Regular Show and its charactors",
-        "link": "https://github.com/Asiphe04/vueRegular_Show.git"
+        "link": "https://github.com/Asiphe04/vueRegular_Show.git",
+        "netlify": "https://delicate-marigold-29facb.netlify.app/"
     },
     {
         "id" : 9,
@@ -204,7 +212,8 @@
         "img" : "https://i.postimg.cc/2S8NBbsJ/first-v.png", 
         "category" : "Vue",  
         "desc" : "My first vue work/exercise",
-        "link": "https://github.com/Asiphe04/vue_lessson_1.git"
+        "link": "https://github.com/Asiphe04/vue_lessson_1.git",
+        "netlify": "https://endearing-griffin-1d8474.netlify.app/"
     }
    
 ]
