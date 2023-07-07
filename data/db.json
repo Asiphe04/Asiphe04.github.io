@@ -138,63 +138,73 @@
         "img" : "https://i.postimg.cc/8kh2KmD9/first-portfolio.png", 
         "category" : "HTML,CSS", 
         
-        "desc" : "The first End of Module Project I made.It just remindes me of where I started from."
+        "desc" : "The first End of Module Project I made.It just remindes me of where I started from.",
+    "link": "https://github.com/Asiphe04/Asiphe_Ndimlana_EOMP.git"
     },
     {
         "id" : 2,
         "projName" : "Class Table Info",
         "img" : "https://i.postimg.cc/PJz0CT2T/TABLES.png", 
         "category" : "HTML,CSS",  
-        "desc" : "A table wth information of my classmates/colleagues"
+        "desc" : "A table wth information of my classmates/colleagues",
+        "link": "https://github.com/Asiphe04/Tables.git"
     },
     {
         "id" : 3,
         "projName" : "Hulu",
         "img" : "https://i.postimg.cc/Gm7wP3rp/hulu-1.png", 
         "category" : "HTML,CSS", 
-        "desc" : "a replica of a website for streaming movies"
+        "desc" : "a replica of a website for streaming movies",
+        "link": "https://github.com/Asiphe04/HTML-basics.git"
     },
     {
         "id" : 4,
         "projName" : "Currency Convertor",
         "img" : "https://i.postimg.cc/TPK8t8YJ/cc.png", 
         "category" : "JavaScript",  
-        "desc" : "A website for converting currency, any currency is available."
+        "desc" : "A website for converting currency, any currency is available.",
+        "link": "https://github.com/Asiphe04/Currency_Convertor.git"
     },
     {
         "id" : 5,
         "projName" : "Calculator",
         "img" : "https://i.postimg.cc/25MsJH1R/calc.png", 
         "category" : "JavaScript",  
-        "desc" : "Fully functional Calculator"
+        "desc" : "Fully functional Calculator",
+        "link": "https://github.com/Asiphe04/My_Calculator.git"
     },
     {
         "id" : 6,
         "projName" : "e-commerce",
         "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
         "category" : "JavaScript",  
-        "desc" : "A JS EOMP whereby I was selling football items"
+        "desc" : "A JS EOMP whereby I was selling football items",
+        "link": "https://github.com/Asiphe04/ASIPHE_JS_EOMP.git"
     },
     {
         "id" : 7,
         "projName" : "Vue e-commerce",
         "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
         "category" : "Vue",  
-        "desc" : "A replica of the JS EOMP but with vue"
+        "desc" : "A replica of the JS EOMP but with vue",
+        "link": "https://github.com/Asiphe04/vue_project-.git"
+
     },
     {
         "id" : 8,
         "projName" : "The Park",
         "img" : "https://i.postimg.cc/xCmwSKmk/rg.png", 
         "category" : "Vue",  
-        "desc" : "A description Regular Show and its charactors"
+        "desc" : "A description Regular Show and its charactors",
+        "link": "https://github.com/Asiphe04/vueRegular_Show.git"
     },
     {
         "id" : 9,
         "projName" : "Welcome to Vue",
         "img" : "https://i.postimg.cc/2S8NBbsJ/first-v.png", 
         "category" : "Vue",  
-        "desc" : "My first vue work/exercise"
+        "desc" : "My first vue work/exercise",
+        "link": "https://github.com/Asiphe04/vue_lessson_1.git"
     }
    
 ]
