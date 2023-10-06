@@ -28,7 +28,7 @@
         "id" : 5,
         "img" : "https://i.postimg.cc/gj9yfX1b/vue1-removebg-preview.png",
         "skillName" : "Vue.js",
-        "level" : "Expert"
+        "level" : "Above Average"
     },
     {
         "id" : 6,
@@ -38,9 +38,9 @@
     },
     {
         "id" : 7,
-        "img" : "https://i.postimg.cc/J4WVKRrg/My-SQL-Logo-removebg-preview.png",
-        "skillName" : "mySQL",
-        "level" : "Expert"
+        "img" : "https://i.postimg.cc/FzS2VLCS/sql-removebg-preview.png",
+        "skillName" : "SQL",
+        "level" : "Regular"
     },
     {
         "id" : 8,
@@ -58,26 +58,8 @@
         "id" : 10,
         "img" : "https://i.postimg.cc/HW7DgqWL/db-removebg-preview.png",
         "skillName" : "Databases",
-        "level" : "Expert"
-    },
-      {
-        "id" : 11,
-        "img" : "https://i.postimg.cc/pTwNwHDm/node-removebg-preview.png",
-        "skillName" : "Node",
         "level" : "Above Average"
-    },
-      {
-        "id" : 12,
-        "img" : "https://i.postimg.cc/jdQVFBCj/python-removebg-preview.png",
-        "skillName" : "Python",
-        "level" : "Beginner"
-    },
-      {
-        "id" : 13,
-        "img" : "https://i.postimg.cc/wxNYh1pL/nuxt-removebg-preview.png",
-        "skillName" : "Nuxt",
-        "level" : "Beginner"
-    },
+    }
 
 ],
     "testimonials":  [
@@ -85,7 +67,7 @@
          "id" : 1,
          "img" : "https://i.postimg.cc/8Phq1VPV/phir-removebg-preview.png",
          "fullName" : "Phindile Ndimlana",
-         "role" : "Former Software Quality Engineer at Impact",
+         "role" : "Software Quality Engineer at Impact",
          "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
      },
      {
@@ -131,8 +113,8 @@
         "id" : 1,
         "course" : "Web Development",
         "place" : "Life Choices Academy",
-        "period" : "Apr 2023 - Oct 2023",
-        "desc" : "Full Stack Development"
+        "period" : "Apr 2023 - Present",
+        "desc" : "Currently learning HTML ,CSS, Bootstrap, Javascript, Vue.js many more"
     },
     {
         "id" : 2,
@@ -234,75 +216,6 @@
         "netlify": "https://endearing-griffin-1d8474.netlify.app/"
     }
    
-],
-    "experience": [
-    {
-        "id" : 1,
-       "name": "LC Studio",
-        "role" : "Intern",
-        "time" : "Oct 2023 - Present",
-    },
-],
-      "softSkills": [
-    {
-        "id" : 1,
-         "name" : "Communication",
-         "percent" : "85%", 
-    },
-            {
-        "id" : 2,
-         "name" : "Team Work",
-         "percent" : "79%", 
-    },
-            {
-        "id" : 3,
-         "name" : "Creativity",
-         "percent" : "88%", 
-    },
-
-            {
-        "id" : 4,
-         "name" : "Leadership",
-         "percent" : "75%", 
-    },
-            {
-        "id" : 5,
-         "name" : "Adaptability",
-         "percent" : "92%", 
-    },
-                  {
-        "id" : 6,
-         "name" : "Problem-solving",
-         "percent" : "87%", 
-    },
-                  {
-        "id" : 7,
-         "name" : " Work ethic",
-         "percent" : "97%", 
-    },
-                  {
-        "id" : 8,
-         "name" : "Public speaking",
-         "percent" : "60%", 
-    },
-],
-      "achievements": [
-    {
-        "id" : 1,
-        "img" : "https://i.postimg.cc/FKsXX11t/cs-removebg-preview.png",
-       "name": "Top Capstone Project (99%)",
-    "place" : "Life Choices Academy",
-        "year" : 2023,
-    },
-        {
-        "id" : 2,
-      "img" : "https://i.postimg.cc/FKsXX11t/cs-removebg-preview.png",
-       "name": "Operatiing Stystem Basics Certificate",
-    "place" : "LC Studio",
-        "year" : 2023,
-    },
 ]
-    
 }
  
-
