@@ -243,6 +243,34 @@
         "time" : "Oct 2023 - Present",
     },
 ],
+      "softSkills": [
+    {
+        "id" : 1,
+         "name" : "Communication",
+         "percent" : "85%", 
+    },
+            {
+        "id" : 2,
+         "name" : "Communication",
+         "percent" : "85%", 
+    },
+            {
+        "id" : 3,
+         "name" : "Communication",
+         "percent" : "85%", 
+    },
+
+            {
+        "id" : 4,
+         "name" : "Communication",
+         "percent" : "85%", 
+    },
+            {
+        "id" : 5,
+         "name" : "Communication",
+         "percent" : "85%", 
+    },
+],
       "achievements": [
     {
         "id" : 1,
