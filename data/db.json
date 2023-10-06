@@ -251,24 +251,39 @@
     },
             {
         "id" : 2,
-         "name" : "Communication",
-         "percent" : "85%", 
+         "name" : "Team Work",
+         "percent" : "79%", 
     },
             {
         "id" : 3,
-         "name" : "Communication",
-         "percent" : "85%", 
+         "name" : "Creativity",
+         "percent" : "88%", 
     },
 
             {
         "id" : 4,
-         "name" : "Communication",
-         "percent" : "85%", 
+         "name" : "Leadership",
+         "percent" : "75%", 
     },
             {
         "id" : 5,
-         "name" : "Communication",
-         "percent" : "85%", 
+         "name" : "Adaptability",
+         "percent" : "92%", 
+    },
+                  {
+        "id" : 6,
+         "name" : "Problem-solving",
+         "percent" : "87%", 
+    },
+                  {
+        "id" : 7,
+         "name" : " Work ethic",
+         "percent" : "97%", 
+    },
+                  {
+        "id" : 8,
+         "name" : "Public speaking",
+         "percent" : "60%", 
     },
 ],
       "achievements": [
