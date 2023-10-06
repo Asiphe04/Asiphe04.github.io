@@ -289,14 +289,14 @@
       "achievements": [
     {
         "id" : 1,
-        "img" : "",
+        "img" : "https://i.postimg.cc/FKsXX11t/cs-removebg-preview.png",
        "name": "Top Capstone Project (99%)",
     "place" : "Life Choices Academy",
         "year" : 2023,
     },
         {
         "id" : 2,
-      "img" : "",
+      "img" : "https://i.postimg.cc/FKsXX11t/cs-removebg-preview.png",
        "name": "Operatiing Stystem Basics Certificate",
     "place" : "LC Studio",
         "year" : 2023,
