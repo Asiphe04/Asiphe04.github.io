@@ -159,7 +159,7 @@
         "projName" : "Cloud 9 Store",
         "img" : "https://i.postimg.cc/sXDBgpd7/capstone.png", 
         "category" : "HTML,CSS",  
-        "desc" : "An e-commerce website where you can create an account. I got 99% for this project",
+        "desc" : "An e-commerce website where you can create an account.",
         "link": "https://github.com/Asiphe04/capstone.git",
         "netlify": "https://capstone-18568.web.app/#/"
     },
@@ -195,7 +195,7 @@
         "projName" : "Weather App",
         "img" : "https://i.postimg.cc/9X4qsYWq/weather.png", 
         "category" : "JavaScript",  
-        "desc" : "A weather app using an API to retrieve weather info about a specific city/town",
+        "desc" : "A weather app using an API",
         "link": "https://github.com/Asiphe04/Weather_App.git",
         "netlify": "https://subtle-mousse-e6233c.netlify.app/"
     },
