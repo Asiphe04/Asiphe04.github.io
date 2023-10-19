@@ -156,21 +156,21 @@
     },
     {
         "id" : 2,
-        "projName" : "Class Table Info",
-        "img" : "https://i.postimg.cc/PJz0CT2T/TABLES.png", 
+        "projName" : "Cloud 9 Store",
+        "img" : "https://i.postimg.cc/sXDBgpd7/capstone.png", 
         "category" : "HTML,CSS",  
-        "desc" : "A table wth information of my classmates/colleagues",
-        "link": "https://github.com/Asiphe04/Tables.git",
-        "netlify": "https://statuesque-pie-8706c9.netlify.app/"
+        "desc" : "An e-commerce website where you can create an account. I got 99% for this project",
+        "link": "https://github.com/Asiphe04/capstone.git",
+        "netlify": "https://capstone-18568.web.app/#/"
     },
     {
         "id" : 3,
-        "projName" : "Hulu",
-        "img" : "https://i.postimg.cc/Gm7wP3rp/hulu-1.png", 
+        "projName" : "Elegant Essences",
+        "img" : "https://i.postimg.cc/yd2W72V3/nodeJS.png", 
         "category" : "HTML,CSS", 
-        "desc" : "a replica of a website for streaming movies",
-        "link": "https://github.com/Asiphe04/HTML-basics.git",
-        "netlify": "https://jovial-rolypoly-ceff93.netlify.app/"
+        "desc" : "A nodeJS EOMP whereby we were grouped in pairs",
+        "link": "https://github.com/Asiphe04/NodeJS_EOMP.gitt",
+        "netlify": "https://nodeeomp-70dc2.web.app/#/"
     },
     {
         "id" : 4,
@@ -192,40 +192,40 @@
     },
     {
         "id" : 6,
-        "projName" : "e-commerce",
-        "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
+        "projName" : "Weather App",
+        "img" : "https://i.postimg.cc/9X4qsYWq/weather.png", 
         "category" : "JavaScript",  
-        "desc" : "A JS EOMP whereby I was selling football items",
-        "link": "https://github.com/Asiphe04/ASIPHE_JS_EOMP.git",
-        "netlify": "https://reliable-cannoli-ae092c.netlify.app/"
+        "desc" : "A weather app using an API to retrieve weather info about a specific city/town",
+        "link": "https://github.com/Asiphe04/Weather_App.git",
+        "netlify": "https://subtle-mousse-e6233c.netlify.app/"
     },
     {
         "id" : 7,
-        "projName" : "Vue e-commerce",
+        "projName" : "Footy Goods Store",
         "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
         "category" : "Vue",  
-        "desc" : "A replica of the JS EOMP but with vue",
+        "desc" : "An e-commerce website selling football items",
         "link": "https://github.com/Asiphe04/vue_project-.git",
-        "netlify": "https://lighthearted-cocada-4c78e0.netlify.app/"
+        "netlify": "https://vueproj-ae3e4.web.app/"
 
     },
     {
         "id" : 8,
-        "projName" : "The Park",
-        "img" : "https://i.postimg.cc/xCmwSKmk/rg.png", 
-        "category" : "Vue",  
-        "desc" : "A description Regular Show and its charactors",
-        "link": "https://github.com/Asiphe04/vueRegular_Show.git",
-        "netlify": "https://delicate-marigold-29facb.netlify.app/"
+        "projName" : "BMI Calculator",
+        "img" : "https://i.postimg.cc/T3Q4B690/bmi.png", 
+        "category" : "JS",  
+        "desc" : "Calculating your BMI",
+        "link": "https://github.com/Asiphe04/BMI_Calculator.git",
+        "netlify": "https://wonderful-pony-f2511e.netlify.app/"
     },
     {
         "id" : 9,
-        "projName" : "Welcome to Vue",
-        "img" : "https://i.postimg.cc/2S8NBbsJ/first-v.png", 
-        "category" : "Vue",  
-        "desc" : "My first vue work/exercise",
-        "link": "https://github.com/Asiphe04/vue_lessson_1.git",
-        "netlify": "https://endearing-griffin-1d8474.netlify.app/"
+        "projName" : "To do list",
+        "img" : "https://i.postimg.cc/fL6zXXSV/to-do.png", 
+        "category" : "JS",  
+        "desc" : "A to do list , includes using local storage to keep your info",
+        "link": "https://github.com/Asiphe04/To_do_list.git",
+        "netlify": "https://frabjous-haupia-d65c90.netlify.app/"
     }
    
 ]
