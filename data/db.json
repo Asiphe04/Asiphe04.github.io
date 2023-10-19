@@ -79,21 +79,21 @@
          "id" : 1,
          "img" : "https://i.postimg.cc/8Phq1VPV/phir-removebg-preview.png",
          "fullName" : "Phindile Ndimlana",
-         "role" : "Software Quality Engineer at Impact",
+         "role" : "Former Software Quality Engineer at Impact",
          "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
      },
      {
          "id" : 2,
          "img" : "https://i.postimg.cc/dVfvPR3F/Sisipho-1.jpg",
          "fullName" : "Sisipho Pepengweni",
-         "role" : "LS Student",
+         "role" : "Colleague",
          "desc" : "As an IT professional, Asiphe embodies dedication and excellence. He never fails to exceed expectations and possesses a remarkable work ethic alongside unparalleled proficiency in technical matters."
      },
      {
          "id" : 3,
          "img" : "https://i.postimg.cc/g2XHqTGj/C12-Luke-Evertson-2.jpg",
          "fullName" : "Luke Evertson",
-         "role" : "LS Student",
+         "role" : "Colleague",
          "desc" : "Working alongside Asiphe on several IT ventures has been an absolute pleasure. His precision-oriented approach coupled with his knack for troubleshooting is highly commendable."
      },
     {
@@ -115,7 +115,7 @@
          "id" : 6,
          "img" : "https://i.postimg.cc/c4Jm6JjQ/C12-Ayesha-Galant-Class1-2.jpg",
          "fullName" : "Ayesha Galant",
-         "role" : "LS Student",
+         "role" : "Colleague",
          "desc" : "Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
      }
  ],
