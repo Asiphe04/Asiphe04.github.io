@@ -75,21 +75,22 @@
 
 ],
     "testimonials":  [
-         {
+            {
          "id" : 1,
+         "img" : "https://i.postimg.cc/c4Jm6JjQ/C12-Ayesha-Galant-Class1-2.jpg",
+         "fullName" : "Ayesha Galant",
+         "role" : "Colleague",
+         "desc" : "Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
+     },
+         {
+         "id" : 2,
          "img" : "https://i.postimg.cc/g2XHqTGj/C12-Luke-Evertson-2.jpg",
          "fullName" : "Luke Evertson",
          "role" : "Colleague",
          "desc" : "Observation is his strength and keeping focused on the task at hand is what keeps him going. He loves a good laugh to unwind and knows his boundaries very cleary."
      },
       
-          {
-         "id" : 2,
-         "img" : "https://i.postimg.cc/c4Jm6JjQ/C12-Ayesha-Galant-Class1-2.jpg",
-         "fullName" : "Ayesha Galant",
-         "role" : "Colleague",
-         "desc" : "Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
-     },
+      
     {
          "id" : 3,
          "img" : "https://i.postimg.cc/6Q7WyjgT/candice.jpg",
