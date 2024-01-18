@@ -26,19 +26,19 @@
     },
     {
         "id" : 5,
-        "img" : "https://i.postimg.cc/gj9yfX1b/vue1-removebg-preview.png",
+        "img" : "https://i.ibb.co/LkdXZXC/vue1-removebg-preview.png",
         "skillName" : "Vue.js"
       
     },
     {
         "id" : 6,
-        "img" : "https://i.postimg.cc/LXJdh7zN/delphi-removebg-preview.png",
+        "img" : "https://i.ibb.co/4gcv1g2/delphi-removebg-preview.png",
         "skillName" : "Delphi 10"
      
     },
     {
         "id" : 7,
-        "img" : "https://i.postimg.cc/9F2p9zPg/My-SQL-Logo-removebg-preview.png",
+        "img" : "https://i.ibb.co/wwdh1Yw/My-SQL-Logo-removebg-preview.png",
         "skillName" : "MySQL"
         
     },
@@ -50,13 +50,13 @@
     },
       {
         "id" : 9,
-        "img" : "https://i.postimg.cc/FzyVqQvx/node-removebg-preview.png",
+        "img" : "https://i.ibb.co/rsqh5MG/node-removebg-preview.png",
         "skillName" : "Node"
       
     },
       {
         "id" : 10,
-        "img" : "https://i.postimg.cc/hP001gpD/python-removebg-preview.png",
+        "img" : "https://i.ibb.co/5nfYF1K/python-removebg-preview.png",
         "skillName" : "Python"
       
     }
