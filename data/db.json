@@ -139,7 +139,7 @@
     {
         "id" : 1,
         "projName" : "Cloud 9 Store",
-        "img" : "https://i.postimg.cc/sXDBgpd7/capstone.png", 
+        "img" : "https://i.ibb.co/J3zmmYY/capstone.png", 
         "category" : "HTML,CSS",  
         "desc" : "An e-commerce website where you can create an account.",
         "link": "https://github.com/Asiphe04/capstone.git",
@@ -148,7 +148,7 @@
     {
         "id" : 2,
         "projName" : "Elegant Essences",
-        "img" : "https://i.postimg.cc/yd2W72V3/nodeJS.png", 
+        "img" : "https://i.ibb.co/4ZwVrkh/nodeJS.png", 
         "category" : "HTML,CSS", 
         "desc" : "A nodeJS EOMP whereby we were grouped in pairs",
         "link": "https://github.com/Asiphe04/NodeJS_EOMP.gitt",
@@ -175,7 +175,7 @@
     {
         "id" : 5,
         "projName" : "Weather App",
-        "img" : "https://i.postimg.cc/9X4qsYWq/weather.png", 
+        "img" : "https://i.ibb.co/1z96j5j/weather.png", 
         "category" : "JavaScript",  
         "desc" : "A weather app using an API",
         "link": "https://github.com/Asiphe04/Weather_App.git",
@@ -194,7 +194,7 @@
     {
         "id" : 7,
         "projName" : "BMI Calculator",
-        "img" : "https://i.postimg.cc/T3Q4B690/bmi.png", 
+        "img" : "https://i.ibb.co/vvZxH9d/bmi.png", 
         "category" : "JS",  
         "desc" : "Calculating your BMI",
         "link": "https://github.com/Asiphe04/BMI_Calculator.git",
@@ -203,7 +203,7 @@
     {
         "id" : 8,
         "projName" : "To do list",
-        "img" : "https://i.postimg.cc/fL6zXXSV/to-do.png", 
+        "img" : "https://i.ibb.co/TTpGSmr/to-do.png", 
         "category" : "JS",  
         "desc" : "A to do list , includes using local storage to keep your info",
         "link": "https://github.com/Asiphe04/To_do_list.git",
