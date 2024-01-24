@@ -157,7 +157,7 @@
     {
         "id" : 3,
         "projName" : "Currency Convertor",
-        "img" : "https://i.postimg.cc/TPK8t8YJ/cc.png", 
+        "img" : "https://i.ibb.co/C2T3GB5/cc.png", 
         "category" : "JavaScript",  
         "desc" : "A website for converting currency, any currency is available.",
         "link": "https://github.com/Asiphe04/Currency_Convertor.git",
@@ -166,7 +166,7 @@
     {
         "id" : 4,
         "projName" : "Calculator",
-        "img" : "https://i.postimg.cc/25MsJH1R/calc.png", 
+        "img" : "https://i.ibb.co/sFgm9WL/calculator.png", 
         "category" : "JavaScript",  
         "desc" : "Fully functional Calculator",
         "link": "https://github.com/Asiphe04/My_Calculator.git",
