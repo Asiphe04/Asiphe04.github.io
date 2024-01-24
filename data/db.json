@@ -67,14 +67,14 @@
          "id" : 1,
          "img" : "https://i.ibb.co/5Gd3v2F/ayesha.png",
          "fullName" : "Ayesha Galant",
-         "role" : "Colleague",
+         "role" : "Former Colleague",
          "desc" : "Asiphe is committed to delivering only the best in his work. His unwavering dedication and consistent efforts go beyond what is expected, ensuring projects are completed within set timelines and of superior standards."
      },
          {
          "id" : 2,
          "img" : "https://i.ibb.co/XWdyMgM/C12-Luke-Evertson-1.jpg",
          "fullName" : "Luke Evertson",
-         "role" : "Colleague",
+         "role" : "Former Colleague",
          "desc" : "Observation is his strength and keeping focused on the task at hand is what keeps him going. He loves a good laugh to unwind and knows his boundaries very cleary."
      },
       
@@ -98,7 +98,7 @@
          "id" : 5,
          "img" : "https://i.ibb.co/C2h0TYM/phir-removebg-preview-removebg-preview.png",
          "fullName" : "Phindile Ndimlana",
-         "role" : "Former Software Quality Engineer at Impact",
+         "role" : "Software Quality Engineer at Nedbank",
          "desc" : "The level of dedication Asiphe brings to his work is truly noteworthy. He consistently puts in extra effort to guarantee the success of a project and his mastery of technical skills is unparalleled."
      },
     
@@ -106,7 +106,7 @@
          "id" : 6,
          "img" : "https://i.ibb.co/cck0K9J/Sidwell-2.png",
          "fullName" : "Sidwell Batyi",
-         "role" : "Colleague",
+         "role" : "Former Colleague",
          "desc" : "As an IT professional, Asiphe embodies dedication and excellence. He never fails to exceed expectations and possesses a remarkable work ethic alongside unparalleled proficiency in technical matters."
      }
    
