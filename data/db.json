@@ -120,15 +120,22 @@
         "period" : "Apr 2023 - Sep 2023",
         "desc" : "Achieved a full-stack developer certificate"
     },
+     {
+         "id" : 2,
+        "course" : "Upgrading school",
+        "place" : "St Francis Radical Academy",
+        "period" : "Jan 2022 - Dec 2022",
+        "desc" : "I was upgrading my Physical Sciences final matric marks"
+     },
     {
-        "id" : 2,
+        "id" : 3,
         "course" : "Grade 8-12",
         "place" : "Butterworth High School",
         "period" : "Jan 2017 - Dec 2021",
         "desc" : "Passed Grade 12"
     },
     {
-        "id" : 3,
+        "id" : 4,
         "course" : "Grade 1 - 7",
         "place" : "Luminous Christian School",
         "period" : "Jan 2010 - Dec 2016",
