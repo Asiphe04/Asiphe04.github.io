@@ -191,7 +191,7 @@
     {
         "id" : 6,
         "projName" : "Footy Goods Store",
-        "img" : "https://i.postimg.cc/zX899HGB/e-com.png", 
+        "img" : "https://i.postimg.cc/WbsWBnGW/footy.jpg", 
         "category" : "Vue",  
         "desc" : "An e-commerce website selling football items",
         "link": "https://github.com/Asiphe04/vue_project-.git",
